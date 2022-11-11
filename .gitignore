@@ -29,3 +29,6 @@ htmlcov/
 .direnv
 
 .github/**
+
+./virtual_venv
+virtual_venv/
